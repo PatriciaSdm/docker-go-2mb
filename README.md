@@ -1,2 +1,7 @@
 # docker-go-2mb
-full cycle challenge
+
+Docker image size with less than 2MB.
+
+# Usage
+
+ docker run --name codeeducation patriciadellamatta/codeeducation:latest
